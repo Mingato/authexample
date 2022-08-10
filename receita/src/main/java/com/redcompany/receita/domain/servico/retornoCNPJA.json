@@ -1,0 +1,92 @@
+{
+ "last_update": "2020-07-04T00:00:00.000Z",
+ "name": "ROSEMARI DE TOGNI ABITANTE E CIA LTDA",
+ "alias": "LADOCERIA",
+ "tax_id": "00357741000124",
+ "type": "MATRIZ",
+ "founded": "1994-12-21",
+ "size": "EPP",
+ "capital": 100000,
+ "email": null,
+ "phone": "(46) 9105-1625",
+ "phone_alt": "(46) 3242-1430",
+ "federal_entity": null,
+ "registration": {
+  "status": "ATIVA",
+  "status_date": "2004-12-04",
+  "status_reason": null,
+  "special_status": null,
+  "special_status_date": null
+ },
+ "address": {
+  "street": "AVENIDA XV DE NOVEMBRO",
+  "number": "4334",
+  "details": ": FUNDOS;",
+  "zip": "85560000",
+  "neighborhood": "CENTRO",
+  "city": "CHOPINZINHO",
+  "state": "PR",
+  "city_ibge": "4105409",
+  "state_ibge": "41"
+ },
+ "legal_nature": {
+  "code": "2062",
+  "description": "Sociedade Empresária Limitada"
+ },
+ "primary_activity": {
+  "code": "4712100",
+  "description": "Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns"
+ },
+ "secondary_activities": [
+  {
+   "code": "4781400",
+   "description": "Comércio varejista de artigos do vestuário e acessórios"
+  }
+ ],
+ "membership": [
+	  {
+	   "name": "PLINIO ABITANTE",
+	   "tax_id": "***825141**",
+	   "role": {
+	    "code": "22",
+	    "description": "Sócio"
+	   }
+	  },
+	  {
+	   "name": "ROSEMARI APARECIDA DE TOGNI ABITANTE",
+	   "tax_id": "***602209**",
+	   "role": {
+	    "code": "49",
+	    "description": "Sócio-Administrador"
+	   }
+	  }
+	 ],
+ "partnership": [],
+ "simples_nacional": {
+	  "last_update": "2020-07-04T00:00:00.000Z",
+	  "simples_optant": true,
+	  "simples_included": "2020-01-01",
+	  "simples_excluded": null,
+	  "simei_optant": false
+	 },
+ "sintegra": {
+	  "last_update": "2020-06-06T15:31:20.000Z",
+	  "home_state_registration": "3120107630",
+	  "registrations": [
+	   {
+	    "number": "3120107630",
+	    "state": "PR",
+	    "enabled": true
+	   }
+	  ]
+	 },
+ "files": {
+	  "registration": "https://api.cnpja.com.br/files/eyJ1IjoiYjExNDBhM2YtMGZlMC00MDg4LTgxNWMtZDk3ODIwNWQ5YzQxIiwieCI6IjAwMzU3NzQxMDAwMTI0IiwidCI6IkNSIn0",
+	  "membership": "https://api.cnpja.com.br/files/eyJ1IjoiYjExNDBhM2YtMGZlMC00MDg4LTgxNWMtZDk3ODIwNWQ5YzQxIiwieCI6IjAwMzU3NzQxMDAwMTI0IiwidCI6IkNNIn0"
+	 },
+ "maps": {
+	  "roads": "https://api.cnpja.com.br/files/eyJ1IjoiYjExNDBhM2YtMGZlMC00MDg4LTgxNWMtZDk3ODIwNWQ5YzQxIiwieCI6IjAwMzU3NzQxMDAwMTI0IiwidCI6IkdSIn0",
+	  "satellite": "https://api.cnpja.com.br/files/eyJ1IjoiYjExNDBhM2YtMGZlMC00MDg4LTgxNWMtZDk3ODIwNWQ5YzQxIiwieCI6IjAwMzU3NzQxMDAwMTI0IiwidCI6IkdTIn0",
+	  "street": "https://api.cnpja.com.br/files/eyJ1IjoiYjExNDBhM2YtMGZlMC00MDg4LTgxNWMtZDk3ODIwNWQ5YzQxIiwieCI6IjAwMzU3NzQxMDAwMTI0IiwidCI6IkdUIn0"
+	 }
+}
